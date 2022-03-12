@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.p_m{
+    width: 500px;
+   background-color: aqua;
+   text-align: justify;
+  /* padding-top: 20px;
+   padding-right: 40px;
+   padding-bottom: 60px;
+   padding-left: 80px; */
+   /*padding: 20px 40px 60px 80px;*/
+   padding: 20px;
+  /* color: white; */
+  /* margin-top: 20px;
+   margin-right: 40px;
+   margin-bottom: 60px;
+   margin-left: 80px; */
+  /* margin: 20px; */
+   margin: 0 auto;
+
+
+
+
+  border-top-width: 10px;
+   border-top-style: solid;
+   border-top-color: green;
+
+   border-right-width: 10px;
+   border-right-style: solid;
+   border-right-color: black;
+
+   border-bottom-width: 10px;
+   border-bottom-style: dotted;
+   border-bottom-color: brown;
+
+   border-left-width: 10px;
+   border-left-style: solid;
+   border-left-color: purple;  
+
+
+   /*border: 15px outset green; */ 
+  
+  /* outline: 30px solid orange; */
+
+}
+
+.p_m2{
+    width: 500px;
+   background-color: blue;
+   text-align: justify;
+  /* padding-top: 20px;
+   padding-right: 40px;
+   padding-bottom: 60px;
+   padding-left: 80px; */
+   /*padding: 20px 40px 60px 80px;*/
+   padding: 20px;
+  /* color: white; */
+  /* margin-top: 20px;
+   margin-right: 40px;
+   margin-bottom: 60px;
+   margin-left: 80px; */
+  /* margin: 20px; */
+   margin: 0 auto;
+
+
+
+
+  border-top-width: 10px;
+   border-top-style: dotted;
+   border-top-color: green;
+
+   border-right-width: 10px;
+   border-right-style: solid;
+   border-right-color: black;
+
+   border-bottom-width: 10px;
+   border-bottom-style: dotted;
+   border-bottom-color: brown;
+
+   border-left-width: 10px;
+   border-left-style: solid;
+   border-left-color: purple;  
+
+
+   /*border: 15px outset green; */ 
+  
+  /* outline: 30px solid orange; */
+
+}
+
+
+p{
+    font-size: 40px;
+    background-image:  url(https://www.creativeitinstitute.com/front/images/banners/b3.jpg);
+
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+
+
+button{
+    color: #fff;
+    background: red;
+    padding: 10px 15px;
+    border: none; 
+    font-size: 20px;
+    text-transform: uppercase;
+    position: fixed;
+    bottom: 0;
+   left: 50px;
+    
+    
+    border-radius: 10px 10px 0 0; 
+}
+
+
+
+
+
+
+.test{
+    padding-top: 80px;
+    padding-left: 50px;
+    color: white;
+   
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    background-color: red;
+    border-radius: 50%
+   
+    
+} 
+
+
+
+.sticky{
+    height: 50px;
+    background-color: purple;
+    position: sticky;
+    top: 0;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    color: #fff;
+}
